@@ -7,16 +7,22 @@ import path from "node:path";
 
 const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const guion = JSON.parse(fs.readFileSync(path.join(root, "src/arroba/guion.json"), "utf8"));
-const text = guion.segments.join(" ");
+// {dicho|mostrado}: la voz lee "dicho", los subtítulos muestran "mostrado"
+const ALT = /\{([^|}]*)\|([^}]*)\}/g;
+const spoken = guion.segments.map((s) => s.replace(ALT, "$1"));
+const text = spoken.join(" ");
 const outTimings = path.join(root, "src/arroba/timings.json");
 
 // token -> segmento, con su rango de caracteres en el texto completo
 const tokens = [];
 {
   let offset = 0;
-  guion.segments.forEach((seg, s) => {
+  guion.segments.forEach((raw, s) => {
+    const seg = spoken[s];
+    const shown = raw.match(/\S+/g).map((tk) => tk.replace(ALT, "$2"));
+    let i = 0;
     for (const m of seg.matchAll(/\S+/g)) {
-      tokens.push({ text: m[0], seg: s, from: offset + m.index, to: offset + m.index + m[0].length - 1 });
+      tokens.push({ text: shown[i++], seg: s, from: offset + m.index, to: offset + m.index + m[0].length - 1 });
     }
     offset += seg.length + 1;
   });

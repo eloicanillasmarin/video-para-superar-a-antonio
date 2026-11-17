@@ -77,7 +77,7 @@ export const S5Medieval: React.FC = () => {
   const [start] = sceneRange(5);
   const lf = frame - start;
   const tQuinientos = at(5, "quinientos");
-  const tEspana = at(5, "España");
+  const tEspana = at(5, "españoles");
   const tMercaderes = at(5, "mercaderes");
   const tPesar = at(5, "pesar");
   const tOnce = at(5, "once");

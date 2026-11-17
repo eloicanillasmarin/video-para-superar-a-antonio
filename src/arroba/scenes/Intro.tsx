@@ -352,7 +352,7 @@ export const S2Machines: React.FC = () => {
   const frame = useCurrentFrame();
   const [start] = sceneRange(2);
   const tLas = at(2, "Las");
-  const tLado = at(2, "lado");
+  const tLado = at(2, "pegadas");
 
   // empieza muy cerca de una máquina y se aleja para revelar la otra
   const zoom = interpolate(frame, [start, tLas, tLas + 18], [1.9, 1.9, 1.0], { ...clamp });

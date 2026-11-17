@@ -217,7 +217,7 @@ export const S4FirstEmail: React.FC = () => {
   const tEmail = at(4, "email");
   const tQue = at(4, "qué");
   const tQwerty = at(4, "qwerty");
-  const tAcordaba = at(4, "acordaba");
+  const tAcordaba = at(4, "acuerda");
   const tNi = at(4, "Ni");
 
   const header = "TO: TOMLINSON@BBN-TENEXB".slice(0, Math.floor(interpolate(lf, [2, 26], [0, 24], clamp)));

@@ -1,0 +1,1044 @@
+{
+ "audio": null,
+ "duration": 59.704,
+ "words": [
+  {
+   "text": "Usas",
+   "seg": 0,
+   "start": 0.15,
+   "end": 0.428
+  },
+  {
+   "text": "este",
+   "seg": 0,
+   "start": 0.428,
+   "end": 0.706
+  },
+  {
+   "text": "símbolo",
+   "seg": 0,
+   "start": 0.706,
+   "end": 1.14
+  },
+  {
+   "text": "cien",
+   "seg": 0,
+   "start": 1.14,
+   "end": 1.418
+  },
+  {
+   "text": "veces",
+   "seg": 0,
+   "start": 1.418,
+   "end": 1.748
+  },
+  {
+   "text": "al",
+   "seg": 0,
+   "start": 1.748,
+   "end": 1.922
+  },
+  {
+   "text": "día…",
+   "seg": 0,
+   "start": 1.922,
+   "end": 2.148
+  },
+  {
+   "text": "y",
+   "seg": 0,
+   "start": 2.468,
+   "end": 2.59
+  },
+  {
+   "text": "no",
+   "seg": 0,
+   "start": 2.59,
+   "end": 2.764
+  },
+  {
+   "text": "tienes",
+   "seg": 0,
+   "start": 2.764,
+   "end": 3.146
+  },
+  {
+   "text": "ni",
+   "seg": 0,
+   "start": 3.146,
+   "end": 3.32
+  },
+  {
+   "text": "idea",
+   "seg": 0,
+   "start": 3.32,
+   "end": 3.598
+  },
+  {
+   "text": "de",
+   "seg": 0,
+   "start": 3.598,
+   "end": 3.772
+  },
+  {
+   "text": "dónde",
+   "seg": 0,
+   "start": 3.772,
+   "end": 4.102
+  },
+  {
+   "text": "viene.",
+   "seg": 0,
+   "start": 4.102,
+   "end": 4.432
+  },
+  {
+   "text": "Año",
+   "seg": 1,
+   "start": 4.752,
+   "end": 4.978
+  },
+  {
+   "text": "1971.",
+   "seg": 1,
+   "start": 4.978,
+   "end": 5.256
+  },
+  {
+   "text": "Ray",
+   "seg": 1,
+   "start": 5.576,
+   "end": 5.802
+  },
+  {
+   "text": "Tomlinson,",
+   "seg": 1,
+   "start": 5.802,
+   "end": 6.34
+  },
+  {
+   "text": "un",
+   "seg": 1,
+   "start": 6.48,
+   "end": 6.654
+  },
+  {
+   "text": "ingeniero",
+   "seg": 1,
+   "start": 6.654,
+   "end": 7.192
+  },
+  {
+   "text": "de",
+   "seg": 1,
+   "start": 7.192,
+   "end": 7.366
+  },
+  {
+   "text": "Massachusetts,",
+   "seg": 1,
+   "start": 7.366,
+   "end": 8.112
+  },
+  {
+   "text": "tiene",
+   "seg": 1,
+   "start": 8.252,
+   "end": 8.582
+  },
+  {
+   "text": "un",
+   "seg": 1,
+   "start": 8.582,
+   "end": 8.756
+  },
+  {
+   "text": "reto:",
+   "seg": 1,
+   "start": 8.756,
+   "end": 9.034
+  },
+  {
+   "text": "mandar",
+   "seg": 1,
+   "start": 9.354,
+   "end": 9.736
+  },
+  {
+   "text": "un",
+   "seg": 1,
+   "start": 9.736,
+   "end": 9.91
+  },
+  {
+   "text": "mensaje",
+   "seg": 1,
+   "start": 9.91,
+   "end": 10.344
+  },
+  {
+   "text": "de",
+   "seg": 1,
+   "start": 10.344,
+   "end": 10.518
+  },
+  {
+   "text": "un",
+   "seg": 1,
+   "start": 10.518,
+   "end": 10.692
+  },
+  {
+   "text": "ordenador",
+   "seg": 1,
+   "start": 10.692,
+   "end": 11.23
+  },
+  {
+   "text": "a",
+   "seg": 1,
+   "start": 11.23,
+   "end": 11.352
+  },
+  {
+   "text": "otro.",
+   "seg": 1,
+   "start": 11.352,
+   "end": 11.63
+  },
+  {
+   "text": "¿Lo",
+   "seg": 2,
+   "start": 11.95,
+   "end": 12.124
+  },
+  {
+   "text": "mejor?",
+   "seg": 2,
+   "start": 12.124,
+   "end": 12.454
+  },
+  {
+   "text": "Las",
+   "seg": 2,
+   "start": 12.774,
+   "end": 13
+  },
+  {
+   "text": "dos",
+   "seg": 2,
+   "start": 13,
+   "end": 13.226
+  },
+  {
+   "text": "máquinas",
+   "seg": 2,
+   "start": 13.226,
+   "end": 13.712
+  },
+  {
+   "text": "estaban",
+   "seg": 2,
+   "start": 13.712,
+   "end": 14.146
+  },
+  {
+   "text": "una",
+   "seg": 2,
+   "start": 14.146,
+   "end": 14.372
+  },
+  {
+   "text": "al",
+   "seg": 2,
+   "start": 14.372,
+   "end": 14.546
+  },
+  {
+   "text": "lado",
+   "seg": 2,
+   "start": 14.546,
+   "end": 14.824
+  },
+  {
+   "text": "de",
+   "seg": 2,
+   "start": 14.824,
+   "end": 14.998
+  },
+  {
+   "text": "la",
+   "seg": 2,
+   "start": 14.998,
+   "end": 15.172
+  },
+  {
+   "text": "otra.",
+   "seg": 2,
+   "start": 15.172,
+   "end": 15.45
+  },
+  {
+   "text": "Pero",
+   "seg": 3,
+   "start": 15.77,
+   "end": 16.048
+  },
+  {
+   "text": "había",
+   "seg": 3,
+   "start": 16.048,
+   "end": 16.378
+  },
+  {
+   "text": "un",
+   "seg": 3,
+   "start": 16.378,
+   "end": 16.552
+  },
+  {
+   "text": "problema:",
+   "seg": 3,
+   "start": 16.552,
+   "end": 17.038
+  },
+  {
+   "text": "separar",
+   "seg": 3,
+   "start": 17.358,
+   "end": 17.792
+  },
+  {
+   "text": "el",
+   "seg": 3,
+   "start": 17.792,
+   "end": 17.966
+  },
+  {
+   "text": "nombre",
+   "seg": 3,
+   "start": 17.966,
+   "end": 18.348
+  },
+  {
+   "text": "de",
+   "seg": 3,
+   "start": 18.348,
+   "end": 18.522
+  },
+  {
+   "text": "la",
+   "seg": 3,
+   "start": 18.522,
+   "end": 18.696
+  },
+  {
+   "text": "persona",
+   "seg": 3,
+   "start": 18.696,
+   "end": 19.13
+  },
+  {
+   "text": "del",
+   "seg": 3,
+   "start": 19.13,
+   "end": 19.356
+  },
+  {
+   "text": "de",
+   "seg": 3,
+   "start": 19.356,
+   "end": 19.53
+  },
+  {
+   "text": "la",
+   "seg": 3,
+   "start": 19.53,
+   "end": 19.704
+  },
+  {
+   "text": "máquina.",
+   "seg": 3,
+   "start": 19.704,
+   "end": 20.138
+  },
+  {
+   "text": "Mira",
+   "seg": 3,
+   "start": 20.458,
+   "end": 20.736
+  },
+  {
+   "text": "el",
+   "seg": 3,
+   "start": 20.736,
+   "end": 20.91
+  },
+  {
+   "text": "teclado…",
+   "seg": 3,
+   "start": 20.91,
+   "end": 21.344
+  },
+  {
+   "text": "y",
+   "seg": 3,
+   "start": 21.664,
+   "end": 21.786
+  },
+  {
+   "text": "ahí",
+   "seg": 3,
+   "start": 21.786,
+   "end": 22.012
+  },
+  {
+   "text": "está:",
+   "seg": 3,
+   "start": 22.012,
+   "end": 22.29
+  },
+  {
+   "text": "la",
+   "seg": 3,
+   "start": 22.61,
+   "end": 22.784
+  },
+  {
+   "text": "arroba.",
+   "seg": 3,
+   "start": 22.784,
+   "end": 23.166
+  },
+  {
+   "text": "Casi",
+   "seg": 3,
+   "start": 23.486,
+   "end": 23.764
+  },
+  {
+   "text": "nadie",
+   "seg": 3,
+   "start": 23.764,
+   "end": 24.094
+  },
+  {
+   "text": "la",
+   "seg": 3,
+   "start": 24.094,
+   "end": 24.268
+  },
+  {
+   "text": "usaba,",
+   "seg": 3,
+   "start": 24.268,
+   "end": 24.598
+  },
+  {
+   "text": "y",
+   "seg": 3,
+   "start": 24.738,
+   "end": 24.86
+  },
+  {
+   "text": "en",
+   "seg": 3,
+   "start": 24.86,
+   "end": 25.034
+  },
+  {
+   "text": "inglés",
+   "seg": 3,
+   "start": 25.034,
+   "end": 25.416
+  },
+  {
+   "text": "se",
+   "seg": 3,
+   "start": 25.416,
+   "end": 25.59
+  },
+  {
+   "text": "lee",
+   "seg": 3,
+   "start": 25.59,
+   "end": 25.816
+  },
+  {
+   "text": "«at»:",
+   "seg": 3,
+   "start": 25.816,
+   "end": 25.99
+  },
+  {
+   "text": "usuario",
+   "seg": 3,
+   "start": 26.31,
+   "end": 26.744
+  },
+  {
+   "text": "EN",
+   "seg": 3,
+   "start": 26.744,
+   "end": 26.918
+  },
+  {
+   "text": "máquina.",
+   "seg": 3,
+   "start": 26.918,
+   "end": 27.352
+  },
+  {
+   "text": "Perfecta.",
+   "seg": 3,
+   "start": 27.672,
+   "end": 28.158
+  },
+  {
+   "text": "Así",
+   "seg": 4,
+   "start": 28.478,
+   "end": 28.704
+  },
+  {
+   "text": "nació",
+   "seg": 4,
+   "start": 28.704,
+   "end": 29.034
+  },
+  {
+   "text": "el",
+   "seg": 4,
+   "start": 29.034,
+   "end": 29.208
+  },
+  {
+   "text": "primer",
+   "seg": 4,
+   "start": 29.208,
+   "end": 29.59
+  },
+  {
+   "text": "email",
+   "seg": 4,
+   "start": 29.59,
+   "end": 29.92
+  },
+  {
+   "text": "de",
+   "seg": 4,
+   "start": 29.92,
+   "end": 30.094
+  },
+  {
+   "text": "la",
+   "seg": 4,
+   "start": 30.094,
+   "end": 30.268
+  },
+  {
+   "text": "historia.",
+   "seg": 4,
+   "start": 30.268,
+   "end": 30.754
+  },
+  {
+   "text": "¿Y",
+   "seg": 4,
+   "start": 31.074,
+   "end": 31.196
+  },
+  {
+   "text": "qué",
+   "seg": 4,
+   "start": 31.196,
+   "end": 31.422
+  },
+  {
+   "text": "decía?",
+   "seg": 4,
+   "start": 31.422,
+   "end": 31.752
+  },
+  {
+   "text": "Algo",
+   "seg": 4,
+   "start": 32.072,
+   "end": 32.35
+  },
+  {
+   "text": "tipo",
+   "seg": 4,
+   "start": 32.35,
+   "end": 32.628
+  },
+  {
+   "text": "«qwerty»,",
+   "seg": 4,
+   "start": 32.628,
+   "end": 33.01
+  },
+  {
+   "text": "letras",
+   "seg": 4,
+   "start": 33.15,
+   "end": 33.532
+  },
+  {
+   "text": "al",
+   "seg": 4,
+   "start": 33.532,
+   "end": 33.706
+  },
+  {
+   "text": "azar.",
+   "seg": 4,
+   "start": 33.706,
+   "end": 33.984
+  },
+  {
+   "text": "¡Ni",
+   "seg": 4,
+   "start": 34.304,
+   "end": 34.478
+  },
+  {
+   "text": "él",
+   "seg": 4,
+   "start": 34.478,
+   "end": 34.652
+  },
+  {
+   "text": "se",
+   "seg": 4,
+   "start": 34.652,
+   "end": 34.826
+  },
+  {
+   "text": "acordaba!",
+   "seg": 4,
+   "start": 34.826,
+   "end": 35.312
+  },
+  {
+   "text": "Pero",
+   "seg": 5,
+   "start": 35.632,
+   "end": 35.91
+  },
+  {
+   "text": "ojo:",
+   "seg": 5,
+   "start": 35.91,
+   "end": 36.136
+  },
+  {
+   "text": "la",
+   "seg": 5,
+   "start": 36.456,
+   "end": 36.63
+  },
+  {
+   "text": "arroba",
+   "seg": 5,
+   "start": 36.63,
+   "end": 37.012
+  },
+  {
+   "text": "ya",
+   "seg": 5,
+   "start": 37.012,
+   "end": 37.186
+  },
+  {
+   "text": "existía",
+   "seg": 5,
+   "start": 37.186,
+   "end": 37.62
+  },
+  {
+   "text": "hace",
+   "seg": 5,
+   "start": 37.62,
+   "end": 37.898
+  },
+  {
+   "text": "más",
+   "seg": 5,
+   "start": 37.898,
+   "end": 38.124
+  },
+  {
+   "text": "de",
+   "seg": 5,
+   "start": 38.124,
+   "end": 38.298
+  },
+  {
+   "text": "quinientos",
+   "seg": 5,
+   "start": 38.298,
+   "end": 38.888
+  },
+  {
+   "text": "años.",
+   "seg": 5,
+   "start": 38.888,
+   "end": 39.166
+  },
+  {
+   "text": "En",
+   "seg": 5,
+   "start": 39.486,
+   "end": 39.66
+  },
+  {
+   "text": "la",
+   "seg": 5,
+   "start": 39.66,
+   "end": 39.834
+  },
+  {
+   "text": "España",
+   "seg": 5,
+   "start": 39.834,
+   "end": 40.216
+  },
+  {
+   "text": "medieval",
+   "seg": 5,
+   "start": 40.216,
+   "end": 40.702
+  },
+  {
+   "text": "los",
+   "seg": 5,
+   "start": 40.702,
+   "end": 40.928
+  },
+  {
+   "text": "mercaderes",
+   "seg": 5,
+   "start": 40.928,
+   "end": 41.518
+  },
+  {
+   "text": "la",
+   "seg": 5,
+   "start": 41.518,
+   "end": 41.692
+  },
+  {
+   "text": "usaban",
+   "seg": 5,
+   "start": 41.692,
+   "end": 42.074
+  },
+  {
+   "text": "para",
+   "seg": 5,
+   "start": 42.074,
+   "end": 42.352
+  },
+  {
+   "text": "pesar:",
+   "seg": 5,
+   "start": 42.352,
+   "end": 42.682
+  },
+  {
+   "text": "una",
+   "seg": 5,
+   "start": 43.002,
+   "end": 43.228
+  },
+  {
+   "text": "arroba",
+   "seg": 5,
+   "start": 43.228,
+   "end": 43.61
+  },
+  {
+   "text": "eran",
+   "seg": 5,
+   "start": 43.61,
+   "end": 43.888
+  },
+  {
+   "text": "unos",
+   "seg": 5,
+   "start": 43.888,
+   "end": 44.166
+  },
+  {
+   "text": "once",
+   "seg": 5,
+   "start": 44.166,
+   "end": 44.444
+  },
+  {
+   "text": "kilos",
+   "seg": 5,
+   "start": 44.444,
+   "end": 44.774
+  },
+  {
+   "text": "y",
+   "seg": 5,
+   "start": 44.774,
+   "end": 44.896
+  },
+  {
+   "text": "medio.",
+   "seg": 5,
+   "start": 44.896,
+   "end": 45.226
+  },
+  {
+   "text": "Y",
+   "seg": 6,
+   "start": 45.546,
+   "end": 45.668
+  },
+  {
+   "text": "hoy",
+   "seg": 6,
+   "start": 45.668,
+   "end": 45.894
+  },
+  {
+   "text": "cada",
+   "seg": 6,
+   "start": 45.894,
+   "end": 46.172
+  },
+  {
+   "text": "país",
+   "seg": 6,
+   "start": 46.172,
+   "end": 46.45
+  },
+  {
+   "text": "le",
+   "seg": 6,
+   "start": 46.45,
+   "end": 46.624
+  },
+  {
+   "text": "pone",
+   "seg": 6,
+   "start": 46.624,
+   "end": 46.902
+  },
+  {
+   "text": "su",
+   "seg": 6,
+   "start": 46.902,
+   "end": 47.076
+  },
+  {
+   "text": "mote:",
+   "seg": 6,
+   "start": 47.076,
+   "end": 47.354
+  },
+  {
+   "text": "en",
+   "seg": 6,
+   "start": 47.674,
+   "end": 47.848
+  },
+  {
+   "text": "Italia",
+   "seg": 6,
+   "start": 47.848,
+   "end": 48.23
+  },
+  {
+   "text": "es",
+   "seg": 6,
+   "start": 48.23,
+   "end": 48.404
+  },
+  {
+   "text": "un",
+   "seg": 6,
+   "start": 48.404,
+   "end": 48.578
+  },
+  {
+   "text": "caracol,",
+   "seg": 6,
+   "start": 48.578,
+   "end": 49.012
+  },
+  {
+   "text": "en",
+   "seg": 6,
+   "start": 49.152,
+   "end": 49.326
+  },
+  {
+   "text": "Holanda,",
+   "seg": 6,
+   "start": 49.326,
+   "end": 49.76
+  },
+  {
+   "text": "una",
+   "seg": 6,
+   "start": 49.9,
+   "end": 50.126
+  },
+  {
+   "text": "cola",
+   "seg": 6,
+   "start": 50.126,
+   "end": 50.404
+  },
+  {
+   "text": "de",
+   "seg": 6,
+   "start": 50.404,
+   "end": 50.578
+  },
+  {
+   "text": "mono…",
+   "seg": 6,
+   "start": 50.578,
+   "end": 50.856
+  },
+  {
+   "text": "y",
+   "seg": 6,
+   "start": 51.176,
+   "end": 51.298
+  },
+  {
+   "text": "en",
+   "seg": 6,
+   "start": 51.298,
+   "end": 51.472
+  },
+  {
+   "text": "Israel,",
+   "seg": 6,
+   "start": 51.472,
+   "end": 51.854
+  },
+  {
+   "text": "¡un",
+   "seg": 6,
+   "start": 51.994,
+   "end": 52.168
+  },
+  {
+   "text": "strudel!",
+   "seg": 6,
+   "start": 52.168,
+   "end": 52.602
+  },
+  {
+   "text": "Empezó",
+   "seg": 7,
+   "start": 52.922,
+   "end": 53.304
+  },
+  {
+   "text": "pesando",
+   "seg": 7,
+   "start": 53.304,
+   "end": 53.738
+  },
+  {
+   "text": "mercancías",
+   "seg": 7,
+   "start": 53.738,
+   "end": 54.328
+  },
+  {
+   "text": "y",
+   "seg": 7,
+   "start": 54.328,
+   "end": 54.45
+  },
+  {
+   "text": "acabó",
+   "seg": 7,
+   "start": 54.45,
+   "end": 54.78
+  },
+  {
+   "text": "conectando",
+   "seg": 7,
+   "start": 54.78,
+   "end": 55.37
+  },
+  {
+   "text": "el",
+   "seg": 7,
+   "start": 55.37,
+   "end": 55.544
+  },
+  {
+   "text": "planeta.",
+   "seg": 7,
+   "start": 55.544,
+   "end": 55.978
+  },
+  {
+   "text": "¿Y",
+   "seg": 7,
+   "start": 56.298,
+   "end": 56.42
+  },
+  {
+   "text": "tú,",
+   "seg": 7,
+   "start": 56.42,
+   "end": 56.594
+  },
+  {
+   "text": "cómo",
+   "seg": 7,
+   "start": 56.734,
+   "end": 57.012
+  },
+  {
+   "text": "la",
+   "seg": 7,
+   "start": 57.012,
+   "end": 57.186
+  },
+  {
+   "text": "llamas?",
+   "seg": 7,
+   "start": 57.186,
+   "end": 57.568
+  },
+  {
+   "text": "Te",
+   "seg": 7,
+   "start": 57.888,
+   "end": 58.062
+  },
+  {
+   "text": "leo",
+   "seg": 7,
+   "start": 58.062,
+   "end": 58.288
+  },
+  {
+   "text": "en",
+   "seg": 7,
+   "start": 58.288,
+   "end": 58.462
+  },
+  {
+   "text": "comentarios.",
+   "seg": 7,
+   "start": 58.462,
+   "end": 59.104
+  }
+ ]
+}

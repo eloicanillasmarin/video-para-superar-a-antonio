@@ -1,15 +1,16 @@
 import { Composition } from "remotion";
-import { MiVideo } from "./MiVideo";
+import { ArrobaVideo } from "./arroba/Video";
+import { FPS, HEIGHT, TOTAL_FRAMES, WIDTH } from "./arroba/timing";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <Composition
-      id="MiVideo"
-      component={MiVideo}
-      durationInFrames={150}
-      fps={30}
-      width={1920}
-      height={1080}
+      id="Arroba"
+      component={ArrobaVideo}
+      durationInFrames={TOTAL_FRAMES}
+      fps={FPS}
+      width={WIDTH}
+      height={HEIGHT}
     />
   );
 };

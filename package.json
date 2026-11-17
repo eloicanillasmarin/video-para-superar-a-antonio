@@ -4,12 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "remotion studio",
-    "build": "remotion render MiVideo out/video.mp4",
+    "build": "remotion render Arroba out/arroba.mp4",
     "upgrade": "remotion upgrade",
-    "lint": "tsc"
+    "lint": "tsc",
+    "voz": "node scripts/voz.mjs",
+    "voz:estimar": "node scripts/voz.mjs --estimar"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.544",
+    "@remotion/google-fonts": "^4.0.544",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "remotion": "^4.0.544"
